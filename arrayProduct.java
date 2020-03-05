@@ -4,7 +4,7 @@ public class arrayProduct
 {
 	public static void main(String args[])
 	{
-		int [] array = {5,1,2,6};
+		int [] array = {5,10,20,50};
 		System.out.println("The product of the array is " + arrayProduct.getProduct(array) );
 	}
 
